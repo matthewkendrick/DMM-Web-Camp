@@ -2,10 +2,23 @@
     width: 90%;
     padding: 15px 0;
     margin: 0 auto;
+    text-align: center;
 }
 
 header .heading {
     font-size: 32px;
+}
+
+.nav-list {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 auto;
 }
 
 .main-visual {

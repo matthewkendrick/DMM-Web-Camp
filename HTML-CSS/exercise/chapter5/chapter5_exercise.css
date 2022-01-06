@@ -4,7 +4,7 @@ a {
 
 header {
     width: 100%;
-    padding: 20px;
+    padding: 20px 0;
     text-align: center;
 }
 .nav-list {
@@ -22,12 +22,10 @@ header {
 
 main {
     width: 800px;
-    justify-content: center;
+    /*justify-content: center;*/
     margin: 50px auto;
-}
-
-.green-box {
-    display: flex;
+    display: flex; /*解答から追加*/
+    flex-wrap: wrap; /*解答から追加*/
 }
 
 .green-1 {
@@ -54,10 +52,6 @@ main {
     background-color: #93ffab;
 }
 
-.yellow-box {
-    display: flex;
-}
-
 .yellow-1 {
     width: 200px;
     height: 200px;
@@ -80,10 +74,6 @@ main {
     width: 200px;
     height: 200px;
     background-color: #e4ff8d;
-}
-
-.blue-box {
-    display: flex;
 }
 
 .blue-1 {

@@ -2,9 +2,40 @@ a {
     text-decoration: none;
 }
 
-.header {
+header {
     width: 90%;
     padding: 20px;
     text-align: center;
 }
 
+.nav-list {
+    text-align: center;
+    padding: 15px 0;
+    margin: 0 auto;
+}
+
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.boxes {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+}
+
+.green-box {
+    display: flex;
+
+}
+
+.footer {
+
+}
+
+.footer-text {
+
+}

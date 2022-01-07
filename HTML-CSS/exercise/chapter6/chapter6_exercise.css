@@ -1,0 +1,33 @@
+/*Reset CSS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*----------------------------------------------------------*/
+.visual {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.visual-item-1 {
+    height: 200px;
+    background-image: url("img/box1.jpg");
+}
+
+.visual-item-2 {
+    height: 200px;
+    background-image: url("img/box2.jpg");
+}
+
+.visual-item-3 {
+    height: 200px;
+    background-image: url("img/box3.jpg");
+}
+
+.visual-item-4 {
+    height: 200px;
+    background-image: url("img/box4.jpg");
+}

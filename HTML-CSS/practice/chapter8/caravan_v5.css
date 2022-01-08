@@ -1,0 +1,33 @@
+/*Reset CSS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #6c6b6b;
+}
+
+/*----------------------------------------------------------*/
+/*header*/
+header {
+    width: 100%;
+    text-align: center;
+}
+
+/*navigation*/
+.nav-list {
+    padding: 20px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+/*visual*/
+
+/*main*/
+
+/*footer*/

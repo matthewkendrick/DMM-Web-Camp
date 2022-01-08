@@ -63,6 +63,7 @@ main {
     width: 800px;
     display: flex;
     justify-content: center;
+    margin: 0 auto;
 }
 
 /*footer*/

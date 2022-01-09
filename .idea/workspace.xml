@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="DMM Web Camp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="[Add]1-8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,14 +93,7 @@
       <workItem from="1641524357487" duration="24868000" />
       <workItem from="1641674984381" duration="22995000" />
       <workItem from="1641712645349" duration="6000" />
-      <workItem from="1641712687159" duration="609000" />
-    </task>
-    <task id="LOCAL-00005" summary="[Finish]1-2">
-      <created>1641207928927</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1641207928927</updated>
+      <workItem from="1641712687159" duration="982000" />
     </task>
     <task id="LOCAL-00006" summary="[Finish]1-2">
       <created>1641208009581</created>
@@ -440,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641709771544</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="[Add]1-8">
+      <created>1641714077267</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1641714077269</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +473,8 @@
     <MESSAGE value="[Start]1-8" />
     <MESSAGE value="[Update]1-8" />
     <MESSAGE value="DMM Web Camp" />
-    <option name="LAST_COMMIT_MESSAGE" value="DMM Web Camp" />
+    <MESSAGE value="[Add]1-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add]1-8" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

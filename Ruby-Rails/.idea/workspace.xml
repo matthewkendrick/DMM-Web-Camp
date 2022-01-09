@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15fcca4b-4498-4aaf-acf2-1e71fbce81ed" name="Changes" comment="DMM Web Camp" />
+    <list default="true" id="15fcca4b-4498-4aaf-acf2-1e71fbce81ed" name="Changes" comment="DMM Web Camp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/practice" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,6 +56,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Ruby.lesson2">
@@ -176,7 +194,8 @@
       <updated>1641696505510</updated>
       <workItem from="1641696506865" duration="682000" />
       <workItem from="1641703958336" duration="696000" />
-      <workItem from="1641704704148" duration="834000" />
+      <workItem from="1641704704148" duration="1800000" />
+      <workItem from="1641706516802" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="DMM Web Camp">
       <created>1641705509718</created>
@@ -185,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641705509718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DMM Web Camp">
+      <created>1641705718325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641705718325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

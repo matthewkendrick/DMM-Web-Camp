@@ -1,56 +1,443 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="551d4ae7-f33e-4f1b-9a33-9c05eefdde33" name="変更" comment="" />
+    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="DMM Web Camp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XHTML File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myAllFileTypesSelected" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="ProjectId" id="23Rsadl9R6ojJiYyoTfouBfiNdV" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23BSYHzQRFfz7uY8o3oYHCOS5a8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML-CSS/practice/chapter8" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HTML-CSS/practice/chapter8" />
+      <recent name="$PROJECT_DIR$/HTML-CSS/practice/chapter7" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Ruby-Rails/practice" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../HTML-CSS" />
+      <recent name="$PROJECT_DIR$/HTML-CSS/practice/chapter8" />
+      <recent name="$PROJECT_DIR$/HTML-CSS/exercise/chapter7" />
+      <recent name="$PROJECT_DIR$/HTML-CSS/practice/chapter7" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="デフォルトタスク">
-      <changelist id="551d4ae7-f33e-4f1b-9a33-9c05eefdde33" name="変更" comment="" />
-      <created>1641708298499</created>
+      <changelist id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="" />
+      <created>1641206033955</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641708298499</updated>
-      <workItem from="1641708299775" duration="363000" />
+      <updated>1641206033955</updated>
+      <workItem from="1641206035160" duration="42762000" />
+      <workItem from="1641524357487" duration="24868000" />
+      <workItem from="1641674984381" duration="21934000" />
     </task>
-    <task id="LOCAL-00001" summary="DMM Web Camp">
-      <created>1641708601863</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00004" summary="DMM Web Camp">
+      <created>1641207734872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1641708601863</updated>
+      <updated>1641207734872</updated>
     </task>
-    <task id="LOCAL-00002" summary="DMM Web Camp">
-      <created>1641708628078</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00005" summary="[Finish]1-2">
+      <created>1641207928927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1641708628078</updated>
+      <updated>1641207928927</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00006" summary="[Finish]1-2">
+      <created>1641208009581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641208009581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DMM Web Camp">
+      <created>1641208160646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641208160646</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DMM Web Camp">
+      <created>1641243731486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641243731486</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DMM Web Camp">
+      <created>1641244081729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641244081729</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[Finish]1-3">
+      <created>1641244205979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641244205979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DMM Web Camp">
+      <created>1641268806998</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641268806998</updated>
+    </task>
+    <task id="LOCAL-00012" summary="DMM Web Camp">
+      <created>1641292464458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641292464458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="DMM Web Camp">
+      <created>1641293624458</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641293624458</updated>
+    </task>
+    <task id="LOCAL-00014" summary="DMM Web Camp">
+      <created>1641325445565</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641325445565</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[Finish]1-4">
+      <created>1641329005490</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641329005490</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[Finish]1-4">
+      <created>1641329013565</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641329013565</updated>
+    </task>
+    <task id="LOCAL-00017" summary="DMM Web Camp">
+      <created>1641329651992</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1641329651992</updated>
+    </task>
+    <task id="LOCAL-00018" summary="DMM Web Camp">
+      <created>1641334065994</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1641334065994</updated>
+    </task>
+    <task id="LOCAL-00019" summary="DMM Web Camp">
+      <created>1641354443814</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641354443814</updated>
+    </task>
+    <task id="LOCAL-00020" summary="DMM Web Camp">
+      <created>1641356130609</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641356130609</updated>
+    </task>
+    <task id="LOCAL-00021" summary="DMM Web Camp">
+      <created>1641413348942</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1641413348942</updated>
+    </task>
+    <task id="LOCAL-00022" summary="DMM Web Camp">
+      <created>1641444173467</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1641444173467</updated>
+    </task>
+    <task id="LOCAL-00023" summary="DMM Web Camp">
+      <created>1641444354791</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1641444354791</updated>
+    </task>
+    <task id="LOCAL-00024" summary="DMM Web Camp">
+      <created>1641444868096</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1641444868096</updated>
+    </task>
+    <task id="LOCAL-00025" summary="DMM Web Camp">
+      <created>1641463893233</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1641463893233</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[Not yet]1-5">
+      <created>1641466088504</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1641466088504</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[Not yet]1-5">
+      <created>1641505002526</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1641505002526</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[Finish]1-5">
+      <created>1641509169332</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1641509169332</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[Finish]1-5">
+      <created>1641509945371</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1641509945371</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[Finish]1-5">
+      <created>1641523469517</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1641523469517</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[Not yet]1-6">
+      <created>1641524459794</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1641524459794</updated>
+    </task>
+    <task id="LOCAL-00032" summary="DMM Web Camp">
+      <created>1641524504420</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1641524504420</updated>
+    </task>
+    <task id="LOCAL-00033" summary="DMM Web Camp">
+      <created>1641532042797</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1641532042797</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[Finish]1-6">
+      <created>1641532070027</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1641532070027</updated>
+    </task>
+    <task id="LOCAL-00035" summary="DMM Web Camp">
+      <created>1641544983668</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1641544983668</updated>
+    </task>
+    <task id="LOCAL-00036" summary="DMM Web Camp">
+      <created>1641551881172</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1641551881172</updated>
+    </task>
+    <task id="LOCAL-00037" summary="DMM Web Camp">
+      <created>1641553169599</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1641553169599</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[Not yet]1-7">
+      <created>1641590976949</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1641590976949</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[Add]1-7">
+      <created>1641593509973</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1641593509973</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[Update]1-7">
+      <created>1641594257159</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1641594257159</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[Update]1-7">
+      <created>1641596867760</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1641596867760</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[Finish]1-7">
+      <created>1641613473278</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1641613473278</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[Start-practice]1-8">
+      <created>1641638288875</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1641638288875</updated>
+    </task>
+    <task id="LOCAL-00044" summary="DMM Web Camp">
+      <created>1641675745600</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1641675745600</updated>
+    </task>
+    <task id="LOCAL-00045" summary="DMM Web Camp">
+      <created>1641682509826</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1641682509826</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[Update]1-8">
+      <created>1641682598291</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1641682598291</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[Update]1-8">
+      <created>1641688953321</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1641688953321</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[Finish]1-8">
+      <created>1641689042073</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1641689042073</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[Start]1-8">
+      <created>1641689364722</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1641689364722</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[Update]1-8">
+      <created>1641690925258</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1641690925259</updated>
+    </task>
+    <task id="LOCAL-00051" summary="DMM Web Camp">
+      <created>1641695387753</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1641695387753</updated>
+    </task>
+    <task id="LOCAL-00052" summary="DMM Web Camp">
+      <created>1641703474265</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1641703474265</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,7 +455,24 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[Finish]1-2" />
+    <MESSAGE value="[Finish]1-3" />
+    <MESSAGE value="[Finish]1-4" />
+    <MESSAGE value="[Not yet]1-5" />
+    <MESSAGE value="[Finish]1-5" />
+    <MESSAGE value="[Not yet]1-6" />
+    <MESSAGE value="[Finish]1-6" />
+    <MESSAGE value="[Not yet]1-7" />
+    <MESSAGE value="[Add]1-7" />
+    <MESSAGE value="[Update]1-7" />
+    <MESSAGE value="[Finish]1-7" />
+    <MESSAGE value="[Start-practice]1-8" />
+    <MESSAGE value="[Finish]1-8" />
+    <MESSAGE value="[Start]1-8" />
+    <MESSAGE value="[Update]1-8" />
     <MESSAGE value="DMM Web Camp" />
     <option name="LAST_COMMIT_MESSAGE" value="DMM Web Camp" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

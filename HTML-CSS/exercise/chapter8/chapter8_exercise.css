@@ -4,11 +4,39 @@
     box-sizing: border-box;
     color: #6c6b6b;
 }
+
 /*main*/
 main {
-
+    width: 960px;
+    margin: 50px;
 }
 
 /*item*/
+.item-list {
+    margin: 50px 0;
+}
+
+.item {
+    padding: 20px;
+    list-style: none;
+}
+
+.item:nth-child(odd) {
+    background-color: #afafaf;
+}
 
 /*box*/
+.box-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    background-color: #ffea00;
+    width: 30%;
+    height: 200px;
+    margin-right: 5%;
+    margin-bottom: 40px;
+}
+
+

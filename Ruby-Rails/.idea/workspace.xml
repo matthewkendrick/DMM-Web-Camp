@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15fcca4b-4498-4aaf-acf2-1e71fbce81ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/chapter2/age.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chapter2/lesson2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chapter2/name.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chapter2/sum.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/chapter2/type.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15fcca4b-4498-4aaf-acf2-1e71fbce81ed" name="Changes" comment="DMM Web Camp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,8 +176,16 @@
       <updated>1641696505510</updated>
       <workItem from="1641696506865" duration="682000" />
       <workItem from="1641703958336" duration="696000" />
-      <workItem from="1641704704148" duration="519000" />
+      <workItem from="1641704704148" duration="834000" />
     </task>
+    <task id="LOCAL-00001" summary="DMM Web Camp">
+      <created>1641705509718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641705509718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,10 +202,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DMM Web Camp" />
+    <option name="LAST_COMMIT_MESSAGE" value="DMM Web Camp" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ruby_Rails@age.rcov" NAME="age のカバレッジ結果" MODIFIED="1641705058889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/chapter2" MODULE_NAME="Ruby-Rails" />
     <SUITE FILE_PATH="coverage/Ruby_Rails@sum.rcov" NAME="sum のカバレッジ結果" MODIFIED="1641705149782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="Ruby-Rails" />
     <SUITE FILE_PATH="coverage/Ruby_Rails@type.rcov" NAME="type のカバレッジ結果" MODIFIED="1641704761194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/chapter2" MODULE_NAME="Ruby-Rails" />
     <SUITE FILE_PATH="coverage/Ruby_Rails@hello.rcov" NAME="hello Coverage Results" MODIFIED="1641704046774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/chapter2" MODULE_NAME="Ruby-Rails" />
+    <SUITE FILE_PATH="coverage/Ruby_Rails@lesson2.rcov" NAME="lesson2 のカバレッジ結果" MODIFIED="1641705393624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="Ruby-Rails" />
   </component>
 </project>

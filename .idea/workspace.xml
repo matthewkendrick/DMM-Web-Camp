@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="DMM Web Camp">
-      <change afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/array.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/hash.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/numeric.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/symbol.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/weight.rb" afterDir="false" />
+    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="[Start]Ruby,practice-chapter4">
+      <change afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/lesson5.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +100,7 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/symbol.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Ruby-Rails/practice/chapter5/lesson5.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,14 +122,7 @@
       <workItem from="1641712645349" duration="6000" />
       <workItem from="1641712687159" duration="1305000" />
       <workItem from="1641714470088" duration="1723000" />
-      <workItem from="1641762362267" duration="3087000" />
-    </task>
-    <task id="LOCAL-00011" summary="DMM Web Camp">
-      <created>1641268806998</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1641268806998</updated>
+      <workItem from="1641762362267" duration="3314000" />
     </task>
     <task id="LOCAL-00012" summary="DMM Web Camp">
       <created>1641292464458</created>
@@ -471,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641763868921</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="[Start]Ruby,practice-chapter4">
+      <created>1641769091764</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1641769091764</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,15 +504,15 @@
     <MESSAGE value="[Add]1-8" />
     <MESSAGE value="[Finish]1-8" />
     <MESSAGE value="[Start]practice-chapter4" />
-    <MESSAGE value="[Start]Ruby,practice-chapter4" />
     <MESSAGE value="[Finish]Ruby,practice-chapter4" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Finish]Ruby,practice-chapter4" />
+    <MESSAGE value="[Start]Ruby,practice-chapter4" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Start]Ruby,practice-chapter4" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DMM_Web_Camp@lesson2.rcov" NAME="lesson2 のカバレッジ結果" MODIFIED="1641711161088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />
     <SUITE FILE_PATH="coverage/DMM_Web_Camp@lesson3.rcov" NAME="lesson3 のカバレッジ結果" MODIFIED="1641719944203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />
-    <SUITE FILE_PATH="coverage/DMM_Web_Camp@practice.rcov" NAME="practice のカバレッジ結果" MODIFIED="1641768824894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />
+    <SUITE FILE_PATH="coverage/DMM_Web_Camp@practice.rcov" NAME="practice のカバレッジ結果" MODIFIED="1641769047289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />
     <SUITE FILE_PATH="coverage/DMM_Web_Camp@reverse.rcov" NAME="reverse のカバレッジ結果" MODIFIED="1641711403762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />
     <SUITE FILE_PATH="coverage/DMM_Web_Camp@include.rcov" NAME="include のカバレッジ結果" MODIFIED="1641711631190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />
     <SUITE FILE_PATH="coverage/DMM_Web_Camp@age.rcov" NAME="age のカバレッジ結果" MODIFIED="1641710672000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="DMM Web Camp" />

@@ -1,1 +1,1 @@
-puts "WEBCAMPでプログラミング学習".methods
+puts "WEBCAMP".methods

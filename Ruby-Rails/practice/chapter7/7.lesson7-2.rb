@@ -12,7 +12,7 @@ while i <= repeat do
   puts i.to_s + "回目の計算\n2つの値を入力してください"
   a = gets.to_i
   b = gets.to_i
-  puts "a=" + a.to_s + "\nb=" + b.to_s
+  puts "a= #{a.to_s} \nb= #{b.to_s}"
 
   num1 = a + b
   num2 = a - b

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="[Finish]Ruby,practice-chapter7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="[Start]Ruby,practice-chapter8">
+      <change beforePath="$PROJECT_DIR$/Ruby-Rails/practice/chapter8/1.greeting.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Ruby-Rails/practice/chapter8/1.greeting.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Ruby-Rails/practice/chapter7/7.lesson7-2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/Ruby-Rails/practice/chapter8/1.greeting.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,13 +124,6 @@
       <workItem from="1641714470088" duration="1723000" />
       <workItem from="1641762362267" duration="13067000" />
       <workItem from="1641874144761" duration="585000" />
-    </task>
-    <task id="LOCAL-00024" summary="DMM Web Camp">
-      <created>1641444868096</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1641444868096</updated>
     </task>
     <task id="LOCAL-00025" summary="DMM Web Camp">
       <created>1641463893233</created>
@@ -468,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641901585258</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="[Start]Ruby,practice-chapter8">
+      <created>1641933602018</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1641933602018</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +487,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="[Not yet]1-6" />
     <MESSAGE value="[Finish]1-6" />
     <MESSAGE value="[Not yet]1-7" />
     <MESSAGE value="[Add]1-7" />
@@ -512,7 +511,8 @@
     <MESSAGE value="[Start]HTML-CSS,practice-chapter9" />
     <MESSAGE value="[Add]Ruby,practice-chapter7" />
     <MESSAGE value="[Finish]Ruby,practice-chapter7" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Finish]Ruby,practice-chapter7" />
+    <MESSAGE value="[Start]Ruby,practice-chapter8" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Start]Ruby,practice-chapter8" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

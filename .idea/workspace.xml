@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="[Finish]1-8">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d433b880-9eae-487c-bd6f-b3eadfc74758" name="変更" comment="[Update]" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,14 +101,7 @@
       <workItem from="1641977362842" duration="336000" />
       <workItem from="1642020816002" duration="174000" />
       <workItem from="1642021028049" duration="340000" />
-      <workItem from="1642021434267" duration="1848000" />
-    </task>
-    <task id="LOCAL-00008" summary="DMM Web Camp">
-      <created>1641243731486</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1641243731486</updated>
+      <workItem from="1642021434267" duration="2219000" />
     </task>
     <task id="LOCAL-00009" summary="DMM Web Camp">
       <created>1641244081729</created>
@@ -449,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641720873213</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="[Update]">
+      <created>1642027581122</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1642027581123</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +485,8 @@
     <MESSAGE value="DMM Web Camp" />
     <MESSAGE value="[Add]1-8" />
     <MESSAGE value="[Finish]1-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Finish]1-8" />
+    <MESSAGE value="[Update]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Update]" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

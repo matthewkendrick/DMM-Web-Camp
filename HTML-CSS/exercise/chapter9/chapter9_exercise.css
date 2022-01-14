@@ -8,6 +8,7 @@
 
 /* header */
 header {
+    width: 100%;
     height: 50px;
     background-color: #ff9a4b;
 }
@@ -24,6 +25,39 @@ header {
     padding: 10px;
     position: relative;
     background-color: #eee
+}
+
+.step-img1 {
+    height: 150px;
+    background-image: url(img/flow01.png);
+    background-position: bottom;
+    background-size: cover;
+}
+
+.step-img2 {
+    height: 150px;
+    background-image: url(img/flow02.png);
+    background-position: bottom;
+    background-size: cover;
+}
+
+.step-img3 {
+    height: 150px;
+    background-image: url(img/flow03.png);
+    background-position: bottom;
+    background-size: cover;
+}
+
+.num {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+    background-color: #ff9a4b;
+}
+
+.contents-title {
+    margin: 15px 0 5px;
 }
 
 .box:last-child {
